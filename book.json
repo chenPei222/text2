@@ -1,0 +1,14 @@
+{  "title":"小秘操作手册",
+   "plugins": ["favicon","expandable-chapters","-sharing"],
+   "pluginsConfig": {
+    "favicon":{
+        "shortcut": "assets/images/xmhelper.jpg",
+        "bookmark": "assets/images/xmhelper.jpg",
+        "appleTouch": "assets/images/xm.ico",
+        "appleTouchMore": {
+            "120x120": "assets/images/xm.ico",
+            "180x180": "assets/images/xm.ico"
+        }
+    }
+}
+}
